@@ -4,7 +4,7 @@ topics to be included:
 1. Classes
 2. Member functions
 3. friend functions
-4. Static ,const,dynamic variables/functions
+4. Static ,const,dynamic variables/functions : new and delete
 5. this pointer
 6. friend function
 7. constrcutors , destructors
